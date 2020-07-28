@@ -13,9 +13,8 @@ public class SwapNumbers {
 		temp=x;
 		x=y;
 		y=temp;
-		
+		//extra spaces are removed
 		System.out.println("after swapping numbers are :"+ x +" and " + y);
-		
 	}
 
 }
